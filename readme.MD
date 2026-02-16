@@ -4,7 +4,7 @@
 ### David Guevara Paniagua
 
 ## Tipografia
-Esto esta en *negritas*.
+Esto esta en **negritas**.
 Esto esta en _cursiva_.
 
 ## Lista ordenada
@@ -14,13 +14,13 @@ Esto esta en _cursiva_.
 
 ## Lista no ordenada
 - Tomate
-- Huvo
+- Huevo
 - Queso
 
 ## Codigo
 ```python
 def saludar():
-	print("Hola mundo en MD)
+	print("Hola mundo en MD")
 ```
-# Maikol japson
+# Maikol Japson
 ![El maikol bien iconic](https://images.squarespace-cdn.com/content/v1/5616ac17e4b018d366f57f53/1626797617776-KUCUGCPY4USFQ3YFVP4U/256+LOGO+BLANK.png)
